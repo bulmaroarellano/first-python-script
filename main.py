@@ -1,12 +1,12 @@
 
 print("""
-BBBBB.     A      N     N  
-B    B    A A     N N   N 
-B    B   A   A    N  N  N 
-BBBBB.   AAAAA.   N.  N      
-B    B   A.  A    N.    N
-B   B    A   A    N.    N
-BBBB     A   A.   N.    N
+BBBBB      A       N    N  
+B    B    A A      N N  N 
+B    B   A   A     N  N N 
+BBBBB    AAAAAA     N   N      
+B    B   A    A    N    N
+B    B   A    A    N    N
+BBBBB    A    A    N    N
 """)
 
 
